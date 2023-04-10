@@ -3,3 +3,4 @@ publish.bat
 esp32_firmware.ino.generic.bin
 firmware.tar.gz
 firmware.version
+.htaccess
